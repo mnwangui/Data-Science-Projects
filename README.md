@@ -1,5 +1,4 @@
 ---
-title: "homework vi"
 author: "Magdalene Wangui"
 date: "2020/06/20"
 output: pdf_document
